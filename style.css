@@ -1,0 +1,320 @@
+@import url("../css/stylefonts.css");
+@import url("../css/null.css");
+body {
+  background: url("../Img/Fon.jpg") 0 0/100% 100% no-repeat fixed;
+}
+
+.Block-1140 {
+  padding: 0 15px 0 15px;
+  height: 100%;
+  max-width: 1190px;
+  margin: 0 auto;
+}
+
+.title-1 {
+  font-family: "Museo900";
+  font-weight: 900;
+  font-size: calc(28px + 62 * (100vw / 1920));
+  color: #e4cb99;
+  padding-top: 30px;
+}
+
+.title-2 {
+  font-family: "Museo700";
+  font-weight: 700;
+  font-size: calc(20px + 18 * (100vw / 1920));
+  color: #dddddd;
+  margin: 12px 0 0 0px;
+}
+
+.rectangle-1-1 {
+  width: 100%;
+  height: 3px;
+  background: #e4cb99;
+  margin-top: 5px;
+}
+
+.block__1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.block__1-1 .Main-button {
+  background-color: #d9a742;
+  color: #2f2c25;
+  height: calc(50px + 35 * (100vw / 1920));
+  width: calc(220px + 120 * (100vw / 1920));
+  font-family: "Museo700";
+  font-weight: 700;
+  font-size: calc(17px + 10 * (100vw / 1920));
+  border-radius: 40px;
+  margin-top: calc(20px + 30 * (100vw / 1920));
+}
+
+.block__1-1 .Main-button:hover {
+  background: #e8c172;
+}
+
+.block__1-2 {
+  color: #dddddd;
+  font-family: "Museo500";
+  font-weight: 500;
+  font-size: calc(15px + 10 * (100vw / 1920));
+  margin-top: 45px;
+  margin-left: 50px;
+  line-height: 30px;
+}
+
+.rectangle__1-1 {
+  background: url("../Img/rectangle3.png");
+  width: 275px;
+  height: 173px;
+}
+
+.rectangle__1-1 .rectangle__1_text-1 {
+  font-family: "Museo700";
+  font-weight: 700;
+  color: #d9a742;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.rectangle__1-1 .rectangle__1_text-2 {
+  font-family: "Museo500";
+  font-weight: 500;
+  font-size: 18px;
+  color: #dddddd;
+  text-align: center;
+  line-height: 23px;
+  padding-top: 15px;
+}
+
+.rectangle__1-2 {
+  background: url("../Img/rectangle3.png");
+  width: 275px;
+  height: 173px;
+}
+
+.rectangle__1-2 .rectangle__2_text-1 {
+  font-family: "Museo700";
+  font-weight: 700;
+  color: #d9a742;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.rectangle__1-2 .rectangle__2_text-2 {
+  font-family: "Museo500";
+  font-weight: 500;
+  font-size: 18px;
+  color: #dddddd;
+  text-align: center;
+  line-height: 23px;
+  padding-top: 15px;
+}
+
+.rectangle__1-3 {
+  background: url("../Img/rectangle1.png") no-repeat;
+  width: 290px;
+  height: 125px;
+  font-size: 20.5px;
+  line-height: 27px;
+  color: #dddddd;
+  text-align: center;
+  padding-top: 21px;
+  font-family: "Museo700";
+  font-weight: 700;
+}
+
+.rectangle__2-1 {
+  background: url("../Img/rectangle3.png");
+  width: 275px;
+  height: 173px;
+}
+
+.rectangle__2-1 .rectangle__3_text-1 {
+  font-family: "Museo700";
+  font-weight: 700;
+  color: #d9a742;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.rectangle__2-1 .rectangle__3_text-2 {
+  font-family: "Museo500";
+  font-weight: 500;
+  font-size: 18px;
+  color: #dddddd;
+  text-align: center;
+  line-height: 23px;
+  padding-top: 15px;
+}
+
+.rectangle__2-2 {
+  background: url("../Img/rectangle3.png");
+  width: 275px;
+  height: 173px;
+}
+
+.rectangle__2-2 .rectangle__4_text-1 {
+  font-family: "Museo700";
+  font-weight: 700;
+  color: #d9a742;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.rectangle__2-2 .rectangle__4_text-2 {
+  font-family: "Museo500";
+  font-weight: 500;
+  font-size: 18px;
+  color: #dddddd;
+  text-align: center;
+  line-height: 23px;
+  padding-top: 15px;
+}
+
+.rectangle__2-3_text-1 {
+  font-family: "Museo500";
+  font-weight: 500;
+  font-size: 23px;
+  color: #dddddd;
+  text-align: center;
+}
+
+.rectangle__2-3_text-2 {
+  font-family: "Museo700";
+  font-weight: 700;
+  font-size: 25px;
+  color: #dddddd;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.rectangle__2-3_image {
+  margin-top: 15px;
+}
+
+.rectangle__2-3_image .rectangle__2-3_image1 {
+  margin-left: 60px;
+}
+
+.rectangle__2-3_image .rectangle__2-3_image2 {
+  margin-left: 25px;
+}
+
+.rectangle__2-3_image .rectangle__2-3_image3 {
+  margin-left: 25px;
+}
+
+.rectangle__main-1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 50px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.rectangle__main-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 50px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+@media (max-width: 869px) {
+  .rectangle__main-1 {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
+  .rectangle__1-3 {
+    margin-top: 50px;
+  }
+  .rectangle__main-2 {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
+  .rectangle__2-3 {
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 1170px) {
+  .block__1-2 {
+    margin-top: 18px;
+    line-height: 26px;
+  }
+}
+
+@media (max-width: 1170px) {
+  .block__1 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .block__1-1 {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+  }
+  .block__1-2 {
+    margin-left: 0px;
+    text-align: center;
+  }
+  .title-1 {
+    text-align: center;
+  }
+  .title-2 {
+    text-align: center;
+  }
+  .rectangle-1-1 {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+
+@media (max-width: 700px) {
+  .rectangle__main-1 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .rectangle__main-2 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .rectangle__1-2 {
+    margin-top: 30px;
+  }
+  .rectangle__2-2 {
+    margin-top: 30px;
+  }
+}
